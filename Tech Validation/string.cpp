@@ -2,7 +2,7 @@
 #include <string.h>
 #include <windows.h>
 
-int main3()//main3
+int main()
 {
 	char str1[20] = "Hello";
 	char str2[10] = "World";

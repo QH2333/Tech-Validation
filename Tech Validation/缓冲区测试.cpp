@@ -7,7 +7,7 @@
 using namespace std;
 
 char outbuf[BUFSIZ];//必须是BUFSIZ，否则存在缓冲溢出可能
-int main2(void)//main2
+int main(void)
 {
 	/* 将outbuf与stdout输出流相连接 */
 	setbuf(stdout, outbuf);
@@ -22,7 +22,7 @@ int main2(void)//main2
 	return 0;
 }
 
-int main1()//main1
+int main()
 {
 	ofstream outfile("test.txt");
 	for (int n = 0; n<4096; n++)

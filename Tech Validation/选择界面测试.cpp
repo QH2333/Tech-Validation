@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main()//main5
+int main()
 {
 	printf("Input your choice(1-9), 0 to exit\n");
 	char ch = getchar();

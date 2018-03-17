@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <windows.h>
 
-int main4()//main4
+int main()
 {
 	printf("%d", stdout->_Placeholder);
 	system("pause");

@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main6()//main6
+int main()
 {
 	int score;
 	cin >> score;

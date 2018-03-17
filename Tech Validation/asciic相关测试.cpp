@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main7()//main7
+int main()
 {
 	int i = 1;
 	char ch;
