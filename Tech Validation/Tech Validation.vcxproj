@@ -115,9 +115,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="asciic相关测试.cpp" />
+    <ClCompile Include="CPP测试.cpp" />
     <ClCompile Include="FILE.cpp" />
     <ClCompile Include="string.cpp" />
     <ClCompile Include="缓冲区测试.cpp" />
+    <ClCompile Include="选择界面测试.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FILE定义.h" />

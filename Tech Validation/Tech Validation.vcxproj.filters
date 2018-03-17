@@ -20,13 +20,22 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="FILE.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="选择界面测试.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP测试.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="asciic相关测试.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="缓冲区测试.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="string.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="FILE.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
