@@ -121,6 +121,7 @@
     <ClCompile Include="..\Tech Validation\string.cpp" />
     <ClCompile Include="..\Tech Validation\缓冲区测试.cpp" />
     <ClCompile Include="..\Tech Validation\选择界面测试.cpp" />
+    <ClCompile Include="进制转换测试.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Tech Validation\FILE定义.h" />

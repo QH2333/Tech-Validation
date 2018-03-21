@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="进制转换测试.cpp">
+    <ClCompile Include="运行区.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

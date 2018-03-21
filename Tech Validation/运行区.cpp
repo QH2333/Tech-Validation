@@ -10,6 +10,7 @@ const char* BASE = "0123456789ABCDEF";
 char* generalConverter(int sourceRadix, int targetRadix, char *sourceArr);
 //An auxlilary function returning the index, i.e. the actual value of <curChar>
 int getIndex(char curChar);
+//Reverse string
 void reverseStr(char* str);
 
 
@@ -24,7 +25,7 @@ int main()
 	cin >> sourRad >> tarRad;
 	cout << "Input your sourct number:" << endl;
 	cin >> sourArr;
-	cout << generalConverter(sourRad, tarRad, sourArr);
+	cout << generalConverter(sourRad, tarRad, sourArr) << endl;
 	system("pause");
 	return 0;
 }

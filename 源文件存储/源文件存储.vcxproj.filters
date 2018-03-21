@@ -33,6 +33,9 @@
     <ClCompile Include="..\Tech Validation\选择界面测试.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="进制转换测试.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Tech Validation\FILE定义.h">
