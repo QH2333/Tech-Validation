@@ -36,6 +36,15 @@
     <ClCompile Include="进制转换测试.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="动效.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="时间相关.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pragma预编译指令.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Tech Validation\FILE定义.h">
