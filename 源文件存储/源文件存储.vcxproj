@@ -123,6 +123,7 @@
     <ClCompile Include="..\Tech Validation\选择界面测试.cpp" />
     <ClCompile Include="pragma预编译指令.cpp" />
     <ClCompile Include="动效.cpp" />
+    <ClCompile Include="控制台API.cpp" />
     <ClCompile Include="时间相关.cpp" />
     <ClCompile Include="进制转换测试.cpp" />
   </ItemGroup>
