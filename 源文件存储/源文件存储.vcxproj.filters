@@ -45,7 +45,10 @@
     <ClCompile Include="pragma预编译指令.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="控制台API.cpp">
+	<ClCompile Include="new delete.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+	<ClCompile Include="控制台API.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
